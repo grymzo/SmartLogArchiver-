@@ -88,12 +88,12 @@ class Program
                 else if (level == "WARN") totalWarns++;
             }
             
-            LogIssue topError = issuesDict.Values
+            LogIssue? topError = issuesDict.Values
                 .Where(i => i.Level == "ERROR")
                 .OrderByDescending(i => i.Count)
                 .FirstOrDefault();
             
-            LogIssue topWarn = issuesDict.Values
+            LogIssue? topWarn = issuesDict.Values
                 .Where(i => i.Level == "WARN")
                 .OrderByDescending(i => i.Count)
                 .FirstOrDefault();
