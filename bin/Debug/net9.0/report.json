@@ -1,0 +1,17 @@
+﻿{
+  "GeneratedAt": "2026-03-31T20:00:51.0297184+03:00",
+  "TotalErrors": 9,
+  "TotalWarns": 13,
+  "TopIssues": [
+    {
+      "Message": "Timeout waiting for external API response.",
+      "Level": "ERROR",
+      "Count": 3
+    },
+    {
+      "Message": "Deprecated endpoint accessed: /api/v1/legacy/users.",
+      "Level": "WARN",
+      "Count": 4
+    }
+  ]
+}

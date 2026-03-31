@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "SmartLogArchiver/1.0.0": {
+        "runtime": {
+          "SmartLogArchiver.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SmartLogArchiver/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

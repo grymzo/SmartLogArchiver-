@@ -1,0 +1,14 @@
+C:\Users\sokol\SmartLogArchiver\bin\Debug\net9.0\SmartLogArchiver.exe
+C:\Users\sokol\SmartLogArchiver\bin\Debug\net9.0\SmartLogArchiver.deps.json
+C:\Users\sokol\SmartLogArchiver\bin\Debug\net9.0\SmartLogArchiver.runtimeconfig.json
+C:\Users\sokol\SmartLogArchiver\bin\Debug\net9.0\SmartLogArchiver.dll
+C:\Users\sokol\SmartLogArchiver\bin\Debug\net9.0\SmartLogArchiver.pdb
+C:\Users\sokol\SmartLogArchiver\obj\Debug\net9.0\SmartLogArchiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sokol\SmartLogArchiver\obj\Debug\net9.0\SmartLogArchiver.AssemblyInfoInputs.cache
+C:\Users\sokol\SmartLogArchiver\obj\Debug\net9.0\SmartLogArchiver.AssemblyInfo.cs
+C:\Users\sokol\SmartLogArchiver\obj\Debug\net9.0\SmartLogArchiver.csproj.CoreCompileInputs.cache
+C:\Users\sokol\SmartLogArchiver\obj\Debug\net9.0\SmartLogArchiver.dll
+C:\Users\sokol\SmartLogArchiver\obj\Debug\net9.0\refint\SmartLogArchiver.dll
+C:\Users\sokol\SmartLogArchiver\obj\Debug\net9.0\SmartLogArchiver.pdb
+C:\Users\sokol\SmartLogArchiver\obj\Debug\net9.0\SmartLogArchiver.genruntimeconfig.cache
+C:\Users\sokol\SmartLogArchiver\obj\Debug\net9.0\ref\SmartLogArchiver.dll
